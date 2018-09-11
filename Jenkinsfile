@@ -1,4 +1,1 @@
-#!groovy
-node {
 
-}
